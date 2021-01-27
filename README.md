@@ -1,7 +1,7 @@
 # Pong
 The classic pong game written in Python using the Turtle module.
 
-![GamePlay Image](<Snippet.PNG>)
+![GamePlay Image](</images/Snippet.PNG>)
 
 #### How to Play:
 - Player A: Moves their paddle with keys "W" and "S". "W" = up, "S" = down
